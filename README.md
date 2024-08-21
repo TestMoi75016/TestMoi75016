@@ -4,7 +4,7 @@
 
 - 👋 Hi, I’m @TestMoi75016
 - 👀 I’m interested in learning fullstack JavaScript coding
-- 🌱 I’m currently learning Javascript 
+- 🌱 I’m currently learning React.js and SQLite 
 - 💞️ I’m looking to collaborate on Javascript projects 
 - 📫 How to reach me compteleoleo@gmail.com
 - ⚡ Fun fact: Well I'm thinking about it !
